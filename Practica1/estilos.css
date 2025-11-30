@@ -1,0 +1,13 @@
+.titulo-especial{
+    display: inline-block;
+    background-color: rgba(85, 0, 0, 0.623);
+    padding: 20px;
+    margin-left: 20px;
+    border-left: 5px solid rgb(255, 112, 112);
+}
+*{
+    margin: 35px;
+}
+h2{
+    margin-left: 55px;
+}
